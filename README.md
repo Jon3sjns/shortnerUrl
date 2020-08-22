@@ -34,8 +34,12 @@ Di google udah ada emang, tapi saya cuman ingin membongkar ulang codingannya:)
 
 # PICT
 
+<br>
+- PHP Native
 <img src='1.png' alt>
 <br>
+<br>
+- CodeIgniter
 <img src='2.png' alt>
 
 
