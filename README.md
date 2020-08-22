@@ -43,6 +43,9 @@ Di google udah ada emang, tapi saya cuman ingin membongkar ulang codingannya:)
 <img src='2.png' alt>
 
 
+<br><br><br>
+
+Sekian terimakasih:)
 
 
 
